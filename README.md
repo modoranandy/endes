@@ -5,6 +5,6 @@
 ##### Titulo de 5 clase
 **Negrita** \
 *Cursiva* \
-***Negrita y Cursiva*** \
+***Negrita y Cursiva***
 
 Salto de linea
